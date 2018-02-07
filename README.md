@@ -1,2 +1,2 @@
 # NodeServer
-Barebones server made using NodeJS. Sends 'hi!' as a response for all requests.
+Barebones server made using NodeJS. Handles and responds to GET and POST requests.
